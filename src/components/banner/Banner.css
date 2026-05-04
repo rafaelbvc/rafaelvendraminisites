@@ -18,8 +18,8 @@
 
 .banner-marketing {
   margin: 12vh 0 10px 0;
-  font-size: 0.74rem;
-  font-weight: 500;
+  font-size: 0.8rem;
+  font-weight: 600;
   color: rgb(35, 204, 167);
 }
 
@@ -28,7 +28,7 @@
 }
 
 .banner-impressao {
-  font-size: 0.74rem;
+  font-size: 0.8rem;
 }
 
 .banner-proposta {

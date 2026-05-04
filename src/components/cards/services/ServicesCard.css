@@ -1,0 +1,25 @@
+.services-card-container {
+  box-sizing: border-box;
+  /* margin-top: 20px; */
+  width: 180px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgb(35, 204, 167);
+  border-radius: 6px;
+  padding: 10px;
+  gap: 6px;
+}
+
+.services-card-title {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.services-card-text {
+  font-size: 0.8rem;
+  color: rgb(35, 204, 167);
+  text-align: center;
+}
