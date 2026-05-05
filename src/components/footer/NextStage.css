@@ -1,0 +1,29 @@
+.next-stage-container {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 90px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(35, 204, 167);
+  padding: 10px;
+}
+
+.next-stage-prepared {
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.next-stage-project {
+  width: 160px;
+  height: 30px;
+  line-height: 30px;
+  font-size: 0.8rem;
+  border: 1px solid #000005;
+  border-radius: 6px;
+  text-align: center;
+  cursor: pointer;
+}

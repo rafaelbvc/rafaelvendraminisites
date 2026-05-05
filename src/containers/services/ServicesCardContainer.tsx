@@ -1,5 +1,5 @@
 import "./ServicesCardContainer.css";
-import ServicesCard from "../../components/cards/services/ServicesCard";
+import ServicesCard from "../../components/cards/ServicesCard";
 import Tools from "../../svgs/Tools";
 import Consulting from "../../svgs/Consulting";
 import Seo from "../../svgs/Seo";

@@ -1,0 +1,19 @@
+.proposal-container {
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 60px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-top: 1px solid rgb(35, 204, 167);
+  border-bottom: 1px solid rgb(35, 204, 167);
+  padding: 10px;
+  gap: 10px;
+}
+
+.proposal-proposal {
+  font-size: 0.8rem;
+  font-weight: 600;
+}

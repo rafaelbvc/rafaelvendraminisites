@@ -8,3 +8,24 @@ body {
   background-color: #000005;
   color: #fff;
 }
+
+@media (min-width: 1024px) {
+  body {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 1440px) {
+  body {
+    width: 60%;
+    margin: 0 auto;
+  }
+}
+
+@media (min-width: 1920px) {
+  body {
+    width: 50%;
+    margin: 0 auto;
+  }
+}

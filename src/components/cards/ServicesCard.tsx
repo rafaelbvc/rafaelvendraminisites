@@ -1,6 +1,6 @@
+import type { IServicesCardProps } from "../../interfaces/IServicesCardProps";
+import Tools from "../../svgs/Tools";
 import "./ServicesCard.css";
-import type { IServicesCardProps } from "../../../interfaces/IServicesCardProps";
-import Tools from "../../../svgs/Tools";
 
 const ServicesCard = ({
   cardSVG = <Tools />,
