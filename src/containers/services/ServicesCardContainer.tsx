@@ -13,7 +13,7 @@ const ServicesCardContainer = () => {
           <Tools svgWidth="36px" svgHeight="36px" svgFill="rgb(35, 204, 167)" />
         }
         cardTitle="MEUS SERVIÇOS"
-        cardText="Sites, Banners, Portais, Publicidade em Midias Digitais"
+        cardText="Sites, Banners, Portais, Publicidade em Mídias Digitais"
       />
       <ServicesCard
         cardSVG={
@@ -31,7 +31,7 @@ const ServicesCardContainer = () => {
           <Seo svgWidth="36px" svgHeight="36px" svgFill="rgb(35, 204, 167)" />
         }
         cardTitle="SEO"
-        cardText="Otimização de seu site para melhor posicionamento nos motores de busca como a google"
+        cardText="Otimização de seu site para melhor posicionamento nos motores de busca, como a google"
       />
       <ServicesCard
         cardSVG={

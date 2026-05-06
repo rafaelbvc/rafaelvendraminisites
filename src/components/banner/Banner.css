@@ -31,24 +31,32 @@
   font-size: 0.8rem;
 }
 
-.banner-proposta {
-  width: 160px;
-  height: 30px;
-  line-height: 30px;
-  margin-top: 20px;
-  font-size: 0.8rem;
-  text-align: center;
-  background-color: rgb(35, 204, 167);
-  border-radius: 6px;
-}
-
+.banner-proposta,
 .banner-galeria {
   width: 160px;
   height: 30px;
   line-height: 30px;
-  margin-top: 10px;
   font-size: 0.8rem;
   text-align: center;
-  border: 1px solid rgb(35, 204, 167);
   border-radius: 6px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.banner-proposta {
+  margin-top: 20px;
+  background-color: rgb(35, 204, 167);
+}
+
+.banner-galeria {
+  margin-top: 10px;
+  border: 1px solid rgb(35, 204, 167);
+}
+
+.banner-proposta:hover {
+  background-color: rgb(35, 204, 167, 0.6);
+}
+
+.banner-galeria:hover {
+  background-color: rgb(35, 204, 167, 0.6);
 }
