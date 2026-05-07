@@ -1,4 +1,4 @@
-import Bars from "../../svgs/Bars";
+// import Bars from "../../svgs/Bars";
 import Logo from "../../svgs/Logo";
 import "./Navbar.css";
 
@@ -13,7 +13,7 @@ const Navbar = () => {
         </div>
       </div>
       <div>
-        <Bars svgWidth="30px" svgHeight="30px" svgFill="#fff" />
+        {/* <Bars svgWidth="30px" svgHeight="30px" svgFill="#fff" /> */}
       </div>
     </nav>
   );
