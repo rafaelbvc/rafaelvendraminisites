@@ -9,7 +9,7 @@ const Gallery = () => {
   const images = [carousel1, carousel2, carousel3, carousel4, carousel5];
 
   return (
-    <div>
+    <div id="galery">
       <Carousel images={images} />
     </div>
   );

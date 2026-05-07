@@ -27,7 +27,9 @@ const Banner = () => {
         >
           Solicitar Proposta
         </a>
-        <span className="banner-galeria">Ver Galeria</span>
+        <a href="#galery" className="banner-galeria">
+          Ver Galeria
+        </a>
       </div>
     </div>
   );
