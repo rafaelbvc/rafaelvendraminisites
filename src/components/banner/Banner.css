@@ -41,11 +41,13 @@
   border-radius: 6px;
   cursor: pointer;
   transition: 0.5s;
+  text-decoration: none;
 }
 
 .banner-proposta {
   margin-top: 20px;
   background-color: rgb(35, 204, 167);
+  color: #000005;
 }
 
 .banner-galeria {

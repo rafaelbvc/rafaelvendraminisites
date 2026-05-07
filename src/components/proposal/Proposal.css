@@ -16,4 +16,7 @@
 .proposal-proposal {
   font-size: 0.8rem;
   font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
 }
